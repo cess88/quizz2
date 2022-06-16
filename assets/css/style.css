@@ -1,0 +1,58 @@
+h1{
+    border: 4mm ridge rgba(211, 220, 50, .6);
+    color: brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(155, 229, 232);
+    margin: 100px 700px;
+    text-align: center;
+}
+
+
+p{
+    border: 4mm ridge rgba(211, 220, 50, .6);
+    color: brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(155, 229, 232);
+    text-align: center;
+    margin: 80px 690px;
+    width: 500px;
+    height: 50px;
+}
+
+button{
+    border: 4mm ridge rgba(231, 240, 64, 0.6);
+    color: crimson;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+    width: 500px;
+    height: 50px;
+}
+
+#comptarebour{
+    border: 4mm ridge rgba(231, 240, 64, 0.6);
+    color: crimson;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin: 100px 870px ;
+    padding: 50px;
+  
+}
+
+.replay{
+    
+    border: 2mm ridge rgba(187, 240, 64, 0.6);
+    color: crimson;
+    background-color: rgb(125, 205, 46);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 900px  ;
+    padding: 10px 10px 10px 10px;
+    height: 50px;
+    width: 100px;
+}
